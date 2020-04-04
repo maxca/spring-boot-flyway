@@ -1,0 +1,1 @@
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('2', 'computer', '100', '59');

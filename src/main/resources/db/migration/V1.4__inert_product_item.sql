@@ -1,0 +1,11 @@
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
+INSERT INTO `tbl_product` (`product_id`, `product_name`, `price`, `quantity`) VALUES ('3', 'computer', '100', '59');
